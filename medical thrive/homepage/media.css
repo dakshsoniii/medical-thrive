@@ -1,0 +1,11 @@
+@media screen and (max-width: 990px) {
+    .paragraph{
+        flex-wrap: wrap;
+    }
+    .project{
+        overflow: none;
+    }
+    .whitebox1{
+        flex-wrap: wrap;
+    }
+}
